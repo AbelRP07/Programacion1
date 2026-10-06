@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27e5110a-0161-4045-9167-1ee9f4cc2845" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="27e5110a-0161-4045-9167-1ee9f4cc2845" name="Changes" comment="Merge branch 'main' of https://github.com/AbelRP07/Programacion1">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejer3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,75 +28,87 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AbelRP07&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AbelRP07/Programacion1.git&quot;,
+    &quot;accountId&quot;: &quot;9d582f71-c338-484e-9afb-cf7ffff9f9aa&quot;
+  }
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="2.9448667827506134E-25" />
-      <entry key="MS500" value="1.2425065626451393E-5" />
-      <entry key="S2" value="0.07020942901187258" />
-      <entry key="S5" value="0.4877325694873882" />
-      <entry key="S10" value="1.0239936706952846" />
-      <entry key="S30" value="2.577812710233164" />
-      <entry key="S60" value="4.320733998027374" />
-      <entry key="M2" value="6.253919801512969" />
-      <entry key="M5" value="8.18294358562736" />
-      <entry key="M10" value="9.02638506345501" />
-      <entry key="M15" value="9.335400089327171" />
-      <entry key="M30" value="9.659654147607917" />
-      <entry key="H1" value="9.82776036721108" />
-      <entry key="H2" value="9.913356428094563" />
-      <entry key="H4" value="9.956546379142768" />
-      <entry key="D1" value="9.992739342876932" />
-      <entry key="W1" value="9.998962311972623" />
+      <entry key="MS100" value="1.0000000000000009" />
+      <entry key="MS500" value="1.001889306015962" />
+      <entry key="S2" value="1.514827896598708" />
+      <entry key="S5" value="2.724959964831956" />
+      <entry key="S10" value="3.6210654349195694" />
+      <entry key="S30" value="4.7714850421128725" />
+      <entry key="S60" value="5.9250800246849336" />
+      <entry key="M2" value="8.906368165115087" />
+      <entry key="M5" value="16.823824246817033" />
+      <entry key="M10" value="22.98536774345982" />
+      <entry key="M15" value="25.793020801735754" />
+      <entry key="M30" value="29.099459766604397" />
+      <entry key="H1" value="30.968805544649513" />
+      <entry key="H2" value="31.96327070712368" />
+      <entry key="H4" value="32.476235138123265" />
+      <entry key="D1" value="32.91194565824517" />
+      <entry key="W1" value="32.98740205711876" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0000000006912853" />
-      <entry key="MS500" value="1.014995855024428" />
-      <entry key="S2" value="1.4814215807236162" />
-      <entry key="S5" value="2.209610944197058" />
-      <entry key="S10" value="2.817951297467695" />
-      <entry key="S30" value="3.8427823943728865" />
-      <entry key="S60" value="4.692780465417874" />
-      <entry key="M2" value="5.52879208080141" />
-      <entry key="M5" value="6.303864735678849" />
-      <entry key="M10" value="6.630357145808034" />
-      <entry key="M15" value="6.748459482483937" />
-      <entry key="M30" value="6.871588998368144" />
-      <entry key="H1" value="6.935117880592147" />
-      <entry key="H2" value="6.967387682923673" />
-      <entry key="H4" value="6.983650761174994" />
-      <entry key="D1" value="6.997269120771101" />
-      <entry key="W1" value="6.999609727010687" />
+      <entry key="MS100" value="1.0757613362558413E-148" />
+      <entry key="MS500" value="2.548843866718159E-30" />
+      <entry key="S2" value="4.08434235294102E-8" />
+      <entry key="S5" value="0.0014424313887331395" />
+      <entry key="S10" value="0.06139837925914413" />
+      <entry key="S30" value="1.2051648821110774" />
+      <entry key="S60" value="3.6840547325614033" />
+      <entry key="M2" value="8.77337967250993" />
+      <entry key="M5" value="18.37996414927631" />
+      <entry key="M10" value="24.677326343830558" />
+      <entry key="M15" value="27.380066486365056" />
+      <entry key="M30" value="30.46681565410919" />
+      <entry key="H1" value="32.17329309491579" />
+      <entry key="H2" value="33.07103983642976" />
+      <entry key="H4" value="33.531543373589855" />
+      <entry key="D1" value="33.92136511767736" />
+      <entry key="W1" value="33.98875267566615" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.0804042831722389E-6" />
-      <entry key="MS500" value="0.06867597220685302" />
-      <entry key="S2" value="0.8761297271150166" />
-      <entry key="S5" value="2.1872573005916256" />
-      <entry key="S10" value="3.4731012592745345" />
-      <entry key="S30" value="6.240019181612638" />
-      <entry key="S60" value="8.90312956533533" />
-      <entry key="M2" value="11.717387890936088" />
-      <entry key="M5" value="14.456739030932427" />
-      <entry key="M10" value="15.640852764545363" />
-      <entry key="M15" value="16.07305821489743" />
-      <entry key="M30" value="16.525733222250615" />
-      <entry key="H1" value="16.760094983549582" />
-      <entry key="H2" value="16.879345275358183" />
-      <entry key="H4" value="16.939495905352352" />
-      <entry key="D1" value="16.989891337382197" />
-      <entry key="W1" value="16.998555300426577" />
+      <entry key="MS100" value="0.07484241903868367" />
+      <entry key="MS500" value="0.5972414207470312" />
+      <entry key="S2" value="1.389039862741871" />
+      <entry key="S5" value="2.670515857560617" />
+      <entry key="S10" value="3.6489195780955765" />
+      <entry key="S30" value="5.931268663197857" />
+      <entry key="S60" value="9.537107126635632" />
+      <entry key="M2" value="17.582540146288796" />
+      <entry key="M5" value="35.11465356723695" />
+      <entry key="M10" value="47.601233256937775" />
+      <entry key="M15" value="53.127249062440896" />
+      <entry key="M30" value="59.540570854283125" />
+      <entry key="H1" value="63.128474960494216" />
+      <entry key="H2" value="65.0272956172309" />
+      <entry key="H4" value="66.00421893925086" />
+      <entry key="D1" value="66.83271016011209" />
+      <entry key="W1" value="66.97606874889868" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3K5KljyD10ha16Ga9ODV9YfmuXX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -102,6 +116,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Ejer3.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -111,8 +126,10 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Alumno/Desktop/Programacion1/Ejercicio3/src/Main.java"
@@ -138,5 +155,22 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tarea 3 hecha" />
+    <MESSAGE value="repo limpio" />
+    <MESSAGE value="Merge branch 'main' of https://github.com/AbelRP07/Programacion1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'main' of https://github.com/AbelRP07/Programacion1" />
   </component>
 </project>
