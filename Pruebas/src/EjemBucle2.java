@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class EjemBucle2 {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("introduce un numero");
         int n1 = sc.nextInt();
