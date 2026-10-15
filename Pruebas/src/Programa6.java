@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Programa6 {
-    static void main(String[] args){
+    public static void main(String[] args){
         Scanner teclado = new Scanner(System.in);
         System.out.println("dime el primer numero");
         int num1 = teclado.nextInt();

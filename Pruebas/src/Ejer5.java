@@ -1,8 +1,9 @@
 import java.util.Scanner;
 
 public class Ejer5 {
-    static void main(String[] args){
+    public void main(String[] args){
         Scanner sc = new Scanner(System.in);
+
         System.out.println("Dime el primero de 4 numeros");
         int  num1  = sc.nextInt();
         System.out.println("Dime el segundo numero");
