@@ -1,4 +1,4 @@
-import jdk.dynalink.beans.StaticClass;
+package Boletin1;
 
 import java.util.Scanner;
 

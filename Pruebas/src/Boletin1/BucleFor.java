@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package Boletin1;
 
 public class BucleFor {
     static void main(String[] args){

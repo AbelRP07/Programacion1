@@ -1,4 +1,5 @@
-import javax.xml.crypto.dsig.spec.XSLTTransformParameterSpec;
+package Boletin1;
+
 import java.util.Scanner;
 
 public class Bucledowhile {

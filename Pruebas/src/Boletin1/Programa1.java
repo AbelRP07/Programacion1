@@ -1,4 +1,4 @@
-import java.lang.classfile.attribute.SourceFileAttribute;
+package Boletin1;
 
 public class Programa1 {
     static void main(String[] args) {
